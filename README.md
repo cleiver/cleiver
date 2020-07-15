@@ -1,16 +1,13 @@
-### Hi there 👋
+![IT Crowd](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
 
-<!--
-**cleiver/cleiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 _I’m currently working with_ PHP developing a system to manage administrative proceedings
 
-Here are some ideas to get you started:
+- 🌱 _I’m currently learning_ Node and React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 _I’m looking to collaborate on_ a social project that help people or animals
+
+- 📫 _How to reach me_ talkto@cleiver.me
+
+- 😄 _Pronouns_ Ele/He
+
+- ⚡ _Fun fact_ Banging your head against a wall for one hour burns 150 calories
