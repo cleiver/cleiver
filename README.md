@@ -6,4 +6,4 @@
 
 - 👯 I’m looking to collaborate on a social project that helps people or animals
 
-- ⚡ _Fun fact_ Banging your head against a wall for one hour burns 150 calories
+- ⚡ Banging your head against a wall for one hour burns 150 calories
