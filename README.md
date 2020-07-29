@@ -1,4 +1,4 @@
-<img src="octocat.png" width="300px" align="center" />
+<img src="https://github.com/cleiver/cleiver/blob/master/octocat.png" width="300px" />
 
 - 🔭 I’m currently working with PHP
 
