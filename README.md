@@ -1,4 +1,5 @@
-<img src="https://github.com/cleiver/cleiver/blob/master/octocat.png" width="300px" />
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairSides&accessoriesType=Prescription02&hairColor=Black&facialHairType=BeardLight&facialHairColor=Black&clotheType=GraphicShirt&clotheColor=Heather&graphicType=Resist&eyeType=EyeRoll&eyebrowType=DefaultNatural&mouthType=Serious&skinColor=Pale'
+/>
 
 - 🔭 I’m currently working with PHP
 
