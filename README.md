@@ -6,3 +6,6 @@
 - 🌱 I’m currently learning Node and React
 
 - 👯 I’m looking to collaborate on a social project that helps people or animals
+
+
+"_mesmo que milhões de pessoas façam algo estúpido, continua sendo algo estúpido_"
