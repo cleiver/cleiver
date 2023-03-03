@@ -1,4 +1,4 @@
-<h1 align="center">olar.tudo.bein 🤙🏻, eu sou o Cleiver 👋🏻</h1>
+<h1 align="center">olar.tudo.bein 🤙🏻</h1>
 <h3 align="center">Programador, analista de sistemas, dono de produto ou algum outro título da vez...</h3>
 <br>
 
